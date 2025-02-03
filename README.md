@@ -1,6 +1,6 @@
 # Museum landing page
 
-- [DEMO LINK](https://nasytheslayer.github.io/Museum-landing/)
+- [DEMO LINK](https://nasytheslayer.github.io/MuseumLanding/)
 
 - [Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1)
 
@@ -22,12 +22,12 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/Museum-landing.git
+$ git clone https://github.com/NasyTheSlayer/MuseumLanding.git
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
 ```
-$ code Museum-landing
+$ code MuseumLanding
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
